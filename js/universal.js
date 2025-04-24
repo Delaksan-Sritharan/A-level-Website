@@ -38,3 +38,13 @@ document.addEventListener('DOMContentLoaded', function () {
     // Initial filter in case there's any default value
     filterTable();
 });
+
+
+window.addEventListener('scroll', function () {
+    const navbar = document.querySelector('.navbar');
+    if (this.window.scrollY > 20) {
+        navbar.classList.add('scrolled');
+    } else {
+        navbar.classList.remove('scrolled');
+    }
+});
