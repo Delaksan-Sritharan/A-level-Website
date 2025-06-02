@@ -73,6 +73,11 @@ The `images/` directory is a placeholder for any images used on the website (e.g
 * Implement a backend to manage and serve the downloadable files more efficiently.
 * Add more advanced search and filtering options on the Physics page.
 
+## Contributing
+
+If you'd like to contribute to improving this website template, feel free to fork the repository (if applicable) and submit pull requests with your enhancements or bug fixes. Please ensure your code follows best practices and is well-documented.
+
+
 ## Author
 
 Delaksan Sritharan
